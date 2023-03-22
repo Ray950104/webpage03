@@ -1,0 +1,26 @@
+p{
+    color:aqua;
+    font-size: 300px;
+
+
+
+}
+/*半tab很重要，多了的話會出錯*/
+body {
+    background-color:green;
+  }
+  
+h1 {
+    font-size: 100px;
+    color:blueviolet
+  }
+  
+.text {
+    color: white;
+
+  }
+  
+#smiley-face {
+    width: 55px;
+    height: 11px;
+}
